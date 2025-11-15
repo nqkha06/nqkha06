@@ -10,6 +10,8 @@ I’m a second-year student and a freelance full-stack web developer. I’ve bee
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
@@ -20,24 +22,26 @@ I’m a second-year student and a freelance full-stack web developer. I’ve bee
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" width="40"/>
 </p>
 
 ## Socials
 <p align="left">
-  <a href="https://facebook.com/nqkha06" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook"/>
+  <a href="https://t.me/qckha06" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="36" height="36" alt="Telegram" style="max-width:100%; height:auto; max-height:36px;">
   </a>
-  <a href="https://t.me/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" alt="Telegram"/>
+  <a href="https://wa.me/#" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="36" height="36" alt="WhatsApp" style="max-width:100%; height:auto; max-height:36px;">
   </a>
-  <a href="https://wa.me/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40" alt="WhatsApp"/>
+  <a href="https://x.com/qckha06" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="36" height="36" alt="X (Twitter)" style="max-width:100%; height:auto; max-height:36px;">
   </a>
-  <a href="https://x.com/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="X (Twitter)"/>
+  <a href="https://facebook.com/nqkha06" target="_blank" rel="nofollow">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" alt="Facebook" style="max-width:100%; height:auto; max-height:36px;">
   </a>
 </p>
 
