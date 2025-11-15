@@ -3,7 +3,7 @@
 I’m a second-year student and a freelance full-stack web developer. I’ve been building personal and professional web projects for over 3 years.
 
 🌍 I'm based in Viet Nam  
-💼 See my portfolio at [qkha.dev](https://qkha.com)  
+💼 See my portfolio at [qkha.dev](https://qkha.dev)  
 📫 Contact me: khatg79@gmail.com  
 
 ## Skills
@@ -32,13 +32,13 @@ I’m a second-year student and a freelance full-stack web developer. I’ve bee
 ## Socials
 <p align="left">
   <a href="https://t.me/qckha06" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/telegram.svg" width="36" height="36" alt="Telegram" style="max-width:100%; height:auto; max-height:36px;">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="36" height="36" alt="Telegram" style="max-width:100%; height:auto; max-height:36px;">
   </a>
   <a href="https://wa.me/#" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/whatsapp.svg" width="36" height="36" alt="WhatsApp" style="max-width:100%; height:auto; max-height:36px;">
+    <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="36" height="36" alt="WhatsApp" style="max-width:100%; height:auto; max-height:36px;">
   </a>
   <a href="https://x.com/qckha06" target="_blank" rel="nofollow">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/x.svg" width="36" height="36" alt="X (Twitter)" style="max-width:100%; height:auto; max-height:36px;">
+    <img src="https://cdn.simpleicons.org/x/000000" width="36" height="36" alt="X (Twitter)" style="max-width:100%; height:auto; max-height:36px;">
   </a>
   <a href="https://facebook.com/nqkha06" target="_blank" rel="nofollow">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="36" height="36" alt="Facebook" style="max-width:100%; height:auto; max-height:36px;">
