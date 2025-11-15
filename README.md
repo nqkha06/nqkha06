@@ -6,7 +6,8 @@ I’m a second-year student and a freelance full-stack web developer. I’ve bee
 💼 See my portfolio at [qkha.dev](https://qkha.com)  
 📫 Contact me: khatg79@gmail.com  
 
-## Skills<p>
+## Skills
+<p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
@@ -25,7 +26,21 @@ I’m a second-year student and a freelance full-stack web developer. I’ve bee
 </p>
 
 ## Socials
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40"/>](https://facebook.com/nqkha06)
+<p align="left">
+  <a href="https://facebook.com/nqkha06" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" alt="Facebook"/>
+  </a>
+  <a href="https://t.me/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40" alt="Telegram"/>
+  </a>
+  <a href="https://wa.me/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40" alt="WhatsApp"/>
+  </a>
+  <a href="https://x.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" alt="X (Twitter)"/>
+  </a>
+</p>
 
+## Badges
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nqkha06&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true)](https://github.com/nqkha06)
 
