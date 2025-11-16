@@ -2,7 +2,7 @@
 
 I’m a second-year student and a freelance full-stack web developer. I’ve been building personal and professional web projects for over 3 years.
 
-🌍 I'm based in Viet Nam  
+🌍 I'm based in Viet Nam 
 💼 See my portfolio at [qkha.dev](https://qkha.dev)  
 📫 Contact me: khatg79@gmail.com  
 
